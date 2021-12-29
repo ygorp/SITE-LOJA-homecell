@@ -123,3 +123,31 @@ body {
   font-size: 24px;
   color: #696969;
 }
+
+.main-content3 {
+  border-top: 0.4px solid #ffffff;
+  margin-top: 48px;
+  display: flex;
+  flex-direction: row;
+  text-align: center;
+}
+
+.main-content3-escrita3 {
+  display: flex;
+  flex-direction: column;
+  gap: 32px;
+}
+
+.main-content3-titulo3 {
+  font-family: 'Oswald', sans-serif;
+  font-weight: 400;
+  font-size: 64px;
+  color: #ffffff;
+}
+
+.main-content3-paragrafo3 {
+  font-family: 'Raleway', sans-serif;
+  font-weight: 400;
+  font-size: 24px;
+  color: #696969;
+}
