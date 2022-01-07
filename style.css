@@ -151,3 +151,27 @@ body {
   font-size: 24px;
   color: #696969;
 }
+
+.rodape {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  border-top: 0.4px solid #ffffff;
+  padding-top: 25px;
+  padding-bottom: 25px;
+}
+
+.rodape-titulo {
+  color: #ffffff;
+  font-family: 'Oswald', sans-serif;
+  font-weight: 400;
+  font-size: 30px;
+}
+
+.rodape-paragrafo {
+  color: #696969;
+  font-family: 'Raleway', sans-serif;
+  font-weight: 400;
+  font-size: 17px;
+}
